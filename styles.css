@@ -84,7 +84,7 @@ p {
     color: #ccc;
 }
 
-.btn {
+.home .btn {
     padding: 10px 20px;
     background-color: #1db954;
     color: #f0f0f0;
@@ -93,7 +93,7 @@ p {
     font-size: 18px;
 }
 
-.btn:hover {
+.home .btn:hover {
     background-color: #1a7d43;
 }
 
